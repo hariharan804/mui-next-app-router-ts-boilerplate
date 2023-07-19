@@ -3,7 +3,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with Material UI installed.
 
 ## Demo
-[View](https://hpkingdom.com/)
+[View](https://mui-next-app-router-ts-boilerplate.vercel.app/)
 ## Visit
 [View](https://hpkingdom.com/)
 ## Features
