@@ -3,6 +3,7 @@
   "version": "5.0.0",
   "private": true,
   "author": "Hariharan @harihara804",
+  "license": "MIT",
   "keywords": ["Next js 13+",
    "MUI V5",
    "MUI Next js boilerplate",
